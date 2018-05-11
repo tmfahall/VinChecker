@@ -1,0 +1,13 @@
+C:\developer\VinChecker\VinChecker\bin\Debug\VinChecker.exe.config
+C:\developer\VinChecker\VinChecker\bin\Debug\VinChecker.exe
+C:\developer\VinChecker\VinChecker\bin\Debug\VinChecker.pdb
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.csprojAssemblyReference.cache
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.Form1.resources
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.Properties.Resources.resources
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.csproj.GenerateResource.cache
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.csproj.CoreCompileInputs.cache
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.exe
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.pdb
+C:\developer\VinChecker\VinChecker\bin\Debug\Newtonsoft.Json.dll
+C:\developer\VinChecker\VinChecker\bin\Debug\Newtonsoft.Json.xml
+C:\developer\VinChecker\VinChecker\obj\Debug\VinChecker.csproj.CopyComplete
